@@ -24,3 +24,6 @@ Important note:
 Since these functions are looking for minimum of f(x) by optimizing both x1 and x2, a minus sign is added in each expression.
 
 More details can be found at this page: https://kyleongmachinelearning.wordpress.com/2016/09/25/test-functions-for-optimization/
+
+## Cite As
+Kuan Yew Leong (2016). Test Functions (https://www.mathworks.com/matlabcentral/fileexchange/59737-test-functions), MATLAB Central File Exchange. Retrieved February 16, 2022.
